@@ -1,0 +1,4 @@
+baseURL = 'https://qadghp.github.io/2026s2-analysis-of-algorithms/'
+languageCode = 'en-us'
+title = 'Analysis of Algorithms'
+theme = 'ananke'
